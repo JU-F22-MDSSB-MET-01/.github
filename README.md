@@ -1,2 +1,0 @@
-# This Organization is to provide private repositories for Homework Assignments and other Practice Material for the course Data Science / Tools at Jacobs University.   
-The syllabus and the homework assignments are here https://janlorenz.github.io/JU-F22-MSDSSB-DSOC-02/
